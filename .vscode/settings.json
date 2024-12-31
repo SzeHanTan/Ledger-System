@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "Visualize\\lib\\hamcrest-core-1.3.jar",
+        "Visualize\\lib\\jcommon-1.0.23.jar",
+        "Visualize\\lib\\jfreechart-1.0.19.jar",
+        "Visualize\\lib\\jfreechart-1.0.19-demo.jar",
+        "Visualize\\lib\\jfreechart-1.0.19-experimental.jar",
+        "Visualize\\lib\\jfreechart-1.0.19-swt.jar",
+        "Visualize\\lib\\jfreesvg-2.0.jar",
+        "Visualize\\lib\\junit-4.11.jar",
+        "Visualize\\lib\\orsoncharts-1.4-eval-nofx.jar",
+        "Visualize\\lib\\orsonpdf-1.6-eval.jar",
+        "Visualize\\lib\\servlet.jar",
+        "Visualize\\lib\\swtgraphics2d.jar"
+    ]
+}
